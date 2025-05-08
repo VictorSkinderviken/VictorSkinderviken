@@ -1,4 +1,5 @@
-## Hi there 👋
+- 📚 Student at Kristiania
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Victor Skinderviken) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicdal66@gmail.com) 
