@@ -13,9 +13,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=victorskinderviken&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victorskinderviken" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/victorskinderviken?trk=profile-badge">Victor Skinderviken</a></div>
               
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
